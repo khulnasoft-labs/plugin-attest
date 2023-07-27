@@ -23,7 +23,7 @@ jobs:
           go-version-file: go.mod
 
       - name: GoReleaser
-        uses: goreleaser/goreleaser-action@v3
+        uses: goreleaser/goreleaser-action@v4
         with:
           version: v1.4.1
           args: release -f=goreleaser.yml --rm-dist --timeout 60m
