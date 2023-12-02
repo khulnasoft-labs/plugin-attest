@@ -6,7 +6,7 @@ toolchain go1.21.4
 
 require (
 	github.com/in-toto/in-toto-golang v0.9.0
-	github.com/sigstore/cosign v1.13.1
+	github.com/sigstore/cosign v1.13.2
 	github.com/sigstore/cosign/v2 v2.2.1
 	github.com/sigstore/sigstore v1.7.5
 	github.com/spf13/cobra v1.8.0

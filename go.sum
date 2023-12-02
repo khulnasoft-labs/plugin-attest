@@ -1656,6 +1656,8 @@ github.com/sigstore/cosign v1.13.0 h1:K0a0RIVRd+ZF9yYhdEa/cD8jqZu3pLP+PSnExaz5/z
 github.com/sigstore/cosign v1.13.0/go.mod h1:skm4FeAWJOH/dznlNBSQ2R8TMdyPNutfA6Uc37Qwgsg=
 github.com/sigstore/cosign v1.13.1 h1:+5oF8jisEcDw2TuXxCADC1u5//HfdnJhGbpv9Isiwu4=
 github.com/sigstore/cosign v1.13.1/go.mod h1:PlfJODkovUOKsLrGI7Su57Ie/Eb/Ks7hRHw3tn5hQS4=
+github.com/sigstore/cosign v1.13.2 h1:McYQ6CDI3wzi2QH+2aePt+08Zz3/yyGAc1iVpNsjntw=
+github.com/sigstore/cosign v1.13.2/go.mod h1:GBzDCUG+Nq7nur2Kyy/4BwWru10nAh7ZmjYZAQoNnKA=
 github.com/sigstore/cosign/v2 v2.2.1/go.mod h1:4l1hELKWoFYzZ/p7+umrK6dhdBoBW0JbQRCIjOZIM9g=
 github.com/sigstore/fulcio v0.6.0 h1:YNfnGm9EjYPlzHiPDcIVhslYj846jkPtHQH+FTKNncw=
 github.com/sigstore/fulcio v0.6.0/go.mod h1:lwxzHDYYQ0lVVWqaj68ZQNkcP847aoF7AIa7ra9rRqA=
