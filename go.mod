@@ -2,7 +2,7 @@ module github.com/khulnasoft-labs/plugin-attest
 
 go 1.22.5
 
-toolchain go1.23.0
+toolchain go1.23.2
 
 require (
 	github.com/in-toto/in-toto-golang v0.9.0
