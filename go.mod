@@ -6,10 +6,9 @@ toolchain go1.23.2
 
 require (
 	github.com/in-toto/in-toto-golang v0.9.0
-	github.com/sigstore/cosign v1.13.6
-	github.com/sigstore/cosign/v2 v2.4.1
-	github.com/sigstore/sigstore v1.8.9
-	github.com/spf13/cobra v1.8.1
+	github.com/sigstore/cosign v1.13.1
+	github.com/sigstore/sigstore v1.7.5
+	github.com/spf13/cobra v1.8.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 )
 
@@ -166,10 +165,9 @@ require (
 	github.com/zeebo/errs v1.3.0 // indirect
 	go.mongodb.org/mongo-driver v1.14.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.54.0 // indirect
-	go.opentelemetry.io/otel v1.29.0 // indirect
-	go.opentelemetry.io/otel/metric v1.29.0 // indirect
-	go.opentelemetry.io/otel/trace v1.29.0 // indirect
+	go.opentelemetry.io/otel v1.20.0 // indirect
+	go.opentelemetry.io/otel/metric v1.20.0 // indirect
+	go.opentelemetry.io/otel/trace v1.20.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
